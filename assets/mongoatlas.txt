@@ -1,0 +1,16 @@
+# MONGODB ATLAS
+
+#### What is mongodb atlas
+
+Atlas is a MongoDB cloud-based developer data platform and its core is an atlas database or *database as a service* (DBaaS), this means that you should don't care about maintenance infrastructure due to atlas do it for us.
+
+#### Database deployments 
+
+Atlas provide two kinds of database deployments such as:
+
+*Serverless*: A serverless instance scales on demand and only charges you for the resources that you use.
+Serverless instances are in general a great option for an application with a highly variable or sparse workloads. 
+
+
+*Cluster*: A cluster is a several mongoDB servers working together, there are two cluster options *shared* and *dedicated*.
+A shared clusters are smaller and are included in the free tier.
